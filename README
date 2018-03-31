@@ -1,12 +1,13 @@
 Bug still exist! But NO update in the plan
-Konwn Bug :1.No head portrait appear in the web when you try to log in .   
+Konwn Bug :
+	1.No head portrait appear in the web when you try to log in .   
      
-			Possible solution : use password to log in.
-		   2.Cannot swtich to Shuoshuo page.
+	Possible solution : use password to log in.
+	2.Cannot swtich to Shuoshuo page.
 		   
-		   Possible solution : Find another way to locate the element.
-		   3.Page number don't match the real situation
+	Possible solution : Find another way to locate the element.
+	3.Page number don't match the real situation
 		   
-		   Sign: you will find that you cannot locate the NextPage button while it appears in the web ,and you will  find all blank  in the last pages. 
-		   Cause: QQ's bug!!!!!Maybe happen when the owner try to hide some . 
-		   Possible solution:Just go to next one , when this happened.
+	Sign: you will find that you cannot locate the NextPage button while it appears in the web ,and you will  find all blank  in the last pages. 
+	Cause: QQ's bug!!!!!Maybe happen when the owner try to hide some . 
+	Possible solution: Just go to next one , when this happened.
