@@ -1,4 +1,28 @@
 Bug still exist! But NO update in the plan
+Simple analyze tool is added.You can use it to have some fun. 
+
+Blog page about this :https://fullofmelodies.blogspot.com/2018/03/selenium-qq.html
+
+Enviroment:
+	python 3.6
+	
+Before use:
+	1.Make sure you have ability to debug and code
+	
+Package needed:
+	1.selenium(This is the only one neede if you don't want to run data analyze programe)
+	2.IPython
+	3.pandas
+	4.numpy
+	5.matplotlib
+	6.thulac 
+
+Usage:
+	1.change some hard-code like file folder's name.Maybe you have to create the folders first.
+	2.Add QQ number to qqNumberList which is in the getQQZoneWords.py.
+	3.Run the getQQZoneWords.py and debug
+	4.Have some fun and use data for your own purpose
+
 Konwn Bug :
 	1.No head portrait appear in the web when you try to log in .   
      
