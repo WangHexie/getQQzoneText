@@ -10,7 +10,7 @@ Before use:
 	1.Make sure you have ability to debug and code
 	
 Package needed:
-	1.selenium(This is the only one neede if you don't want to run data analyze programe)
+	1.selenium(This is the only one neede if you don't want to run data analyze program)
 	2.IPython
 	3.pandas
 	4.numpy
